@@ -8,7 +8,7 @@
   - ##### 2-May-2025
     - CTM code, fairness in video editting, aims for AAAI-26 submission
   - [CVPR24: A Video is Worth 256 Bases](https://arxiv.org/pdf/2312.05856) [`Video Editing`] [`Machine Learning`]
-  - [CVPR25: Rethinking Training for De-biasing](https://arxiv.org/pdf/2408.12692) [`Fairness`] [`Text-to-Image`]
+  - [CVPR25: Rethinking Training for De-biasing](https://arxiv.org/pdf/2408.12692) [`Fairness`] [`Prompt Embedding`]
   - [ICLR25: Videograin](https://arxiv.org/pdf/2502.17258) [`Video Editing`] [`CrossAttention`]
 
 ### Hongyu Wu
