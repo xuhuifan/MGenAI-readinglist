@@ -7,9 +7,9 @@
 ### Zhangkai
   - ##### 2-May-2025
     - CTM code, fairness in video editting, aims for AAAI-26 submission
-  - [CVPR24:A Video is Worth 256 Bases: Spatial-Temporal Expectation-Maximization Inversion for Zero-Shot Video Editing](https://arxiv.org/pdf/2312.05856) [^Video Editing][^Machine Learning]
-  - [CVPR25:Rethinking Training for De-biasing Text-to-Image Generation: Unlocking the Potential of Stable Diffusion](https://arxiv.org/pdf/2408.12692)[^Fairness][^Text Prompting Embedding]
-  - [ICLR25:Videograin: Modulating space-time attention for multi-grained video editing](https://arxiv.org/pdf/2502.17258)[^Video Editing][^CrossAttention]
+  - [CVPR24: A Video is Worth 256 Bases](https://arxiv.org/pdf/2312.05856) [`Video Editing`] [`Machine Learning`]
+  - [CVPR25: Rethinking Training for De-biasing](https://arxiv.org/pdf/2408.12692) [`Fairness`] [`Text-to-Image`]
+  - [ICLR25: Videograin](https://arxiv.org/pdf/2502.17258) [`Video Editing`] [`CrossAttention`]
 
 ### Hongyu Wu
   - ##### 2-May-2025
